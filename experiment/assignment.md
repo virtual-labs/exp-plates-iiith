@@ -6,5 +6,3 @@
 
 **Q4**. What type of forces is predominant in plates?
 
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp6/Exp-6%20Plates.pdf)

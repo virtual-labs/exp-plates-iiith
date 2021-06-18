@@ -4,7 +4,3 @@ A plate is a flat structural element for which the thickness is small compared w
 
 Make the students familiar with the finite element theory behind standard plates.
 
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp6/Exp-6%20Plates.pdf)
-
-
