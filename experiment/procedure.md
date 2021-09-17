@@ -16,3 +16,4 @@ Material Properties: Modulus of elasticity = 3 X 107 psi, Poisson's ratio = 0.3.
 |Uniform Load|   |   |   |   |   |   |
 |Concentrated force|   |   |   |   |   |   |
 
+<a href="docs/Exp-6 Plates.pdf">[Read more]</a>

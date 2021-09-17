@@ -1,0 +1,1 @@
+- Make the students familiar with the finite element theory behind standard plates.
