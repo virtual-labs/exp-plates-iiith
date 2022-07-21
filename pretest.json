@@ -1,0 +1,30 @@
+[
+   {
+      "question":"1. In the bending of elastic plates, although the plate problems are similar to the plane stress problems, plates are also subjected to transverse loads that cause bending about axes normal to the plane of the plate.",
+      "answers":{
+         "a":"True",
+         "b":"False"
+      },
+      "correctAnswer":"b"
+   },
+   {
+      "question":"2. Which principle is used to derive the governing equations of displacement-based plate theories?",
+      "answers":{
+         "a":"The principle of virtual forces",
+         "b":"The principle of virtual work",
+         "c":"The principle of virtual displacements",
+         "d":"The principle of least energy"
+      },
+      "correctAnswer":"c"
+   },
+   {
+      "question":"3. Which option specifies an assumption made in Classical Plate Theory for a plate lying in the plane XY?",
+      "answers":{
+         "a":"εzz=0",
+         "b":"εxz≠0",
+         "c":"εyz≠0",
+         "d":"εxy=0"
+      },
+      "correctAnswer":"a"
+   }
+]

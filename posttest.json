@@ -1,0 +1,12 @@
+[
+   {
+      "question":"1. what are the primary variables in the Classical Plate Theory of plate deformation (w)?",
+      "answers":{
+         "a":"The transverse deflection w only",
+         "b":"The transverse deflection w and the normal derivative of w",
+         "c":"The normal derivative of w only",
+         "d":"The normal and the time derivative of w"
+      },
+      "correctAnswer":"b"
+   }
+]
